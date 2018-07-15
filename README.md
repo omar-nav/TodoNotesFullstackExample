@@ -18,6 +18,6 @@ Después podrás visualizar el frontend abriendo el archivo ```index.html``` de 
 
 ### Observaciones
 * No es nada recomendable que en un repositorio haya dos proyectos diferentes, lo hice para que tengan acceso al ejemplo completo en un sólo punto.
-* Es mala práctica subir la carpeta de ```node_modules```, pero lo hice para que no tuvieron que hacer ningún paso más.
+* Es mala práctica subir la carpeta de ```node_modules```, pero lo hice para que no tuvieran que hacer ningún paso más.
 * Gracias a Nakagawa y a Ian que de no haber insistido, este repo no existiría.
 * Hecho con :heart: para el Batch 21 de Dev.F
